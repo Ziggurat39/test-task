@@ -1,7 +1,7 @@
 # test task
 The some test task.
 
-## Requirments
+## Requirements
 Python 3.8.x
 
 ## Description
